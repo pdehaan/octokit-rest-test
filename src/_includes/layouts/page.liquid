@@ -1,0 +1,17 @@
+---
+layout: layouts/base.liquid
+title: 11ty/eleventy Dashboard
+---
+
+<main class="content">
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+  <article>
+    {{ content | strip }}
+  </article>
+  <footer>
+    <hr />
+    <p>Last updated <time datetime="{{ page.date | date: '%Y-%m-%d'}}">{{ page.date | date: '%b %d, %Y' }}</time></p>
+  </footer>
+</main>

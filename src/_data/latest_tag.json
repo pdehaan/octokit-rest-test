@@ -1,0 +1,44 @@
+{
+  "name": "v0.11.0-beta.1",
+  "zipball_url": "https://api.github.com/repos/11ty/eleventy/zipball/v0.11.0-beta.1",
+  "tarball_url": "https://api.github.com/repos/11ty/eleventy/tarball/v0.11.0-beta.1",
+  "commit": {
+    "sha": "8ead8886a8aedf81ffde318065217c5aae557e76",
+    "node_id": "MDY6Q29tbWl0MTEyMTUwNzc2OjhlYWQ4ODg2YThhZWRmODFmZmRlMzE4MDY1MjE3YzVhYWU1NTdlNzY=",
+    "url": "https://api.github.com/repos/11ty/eleventy/git/commits/8ead8886a8aedf81ffde318065217c5aae557e76",
+    "html_url": "https://github.com/11ty/eleventy/commit/8ead8886a8aedf81ffde318065217c5aae557e76",
+    "author": {
+      "name": "Zach Leatherman",
+      "email": "zachleatherman@gmail.com",
+      "date": "2020-02-20T16:50:17Z"
+    },
+    "committer": {
+      "name": "Zach Leatherman",
+      "email": "zachleatherman@gmail.com",
+      "date": "2020-02-20T16:50:17Z"
+    },
+    "tree": {
+      "sha": "bdee409f66609134090dfefb2e33d1ce5e667a93",
+      "url": "https://api.github.com/repos/11ty/eleventy/git/trees/bdee409f66609134090dfefb2e33d1ce5e667a93"
+    },
+    "message": "v0.11.0-beta.1",
+    "parents": [
+      {
+        "sha": "d8f941e0e4cf04d47f965d324f29c0683b549b85",
+        "url": "https://api.github.com/repos/11ty/eleventy/git/commits/d8f941e0e4cf04d47f965d324f29c0683b549b85",
+        "html_url": "https://github.com/11ty/eleventy/commit/d8f941e0e4cf04d47f965d324f29c0683b549b85"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null
+    }
+  },
+  "node_id": "MDM6UmVmMTEyMTUwNzc2OnYwLjExLjAtYmV0YS4x",
+  "$meta": {
+    "owner": "11ty",
+    "repo": "eleventy"
+  }
+}
